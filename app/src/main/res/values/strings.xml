@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Swipewipe</string>
+    
+    <!-- Intro screens -->
+    <string name="intro_title_1">Thư viện ảnh của bạn đang quá lộn xộn?</string>
+    <string name="intro_title_2">Vuốt phải để giữ – Vuốt trái để xóa</string>
+    <string name="intro_title_3">Mỗi tháng một lần. Nhẹ nhàng &amp; vui vẻ.</string>
+    <string name="intro_button_start">Bắt đầu</string>
+    
+    <!-- Permission screen -->
+    <string name="permission_title">Cần quyền truy cập ảnh</string>
+    <string name="permission_description">Để dọn dẹp thư viện ảnh, Swipewipe cần quyền truy cập vào ảnh và video của bạn.</string>
+    <string name="permission_grant">Cho phép</string>
+    <string name="permission_settings">Mở Settings</string>
+    <string name="permission_denied">Vui lòng cấp quyền trong Settings để tiếp tục.</string>
+    
+    <!-- Home screen -->
+    <string name="home_on_this_day">On This Day</string>
+    <string name="home_on_this_day_subtitle">%d years ago (%d photos)</string>
+    <string name="home_monthly_timeline">Monthly Timeline</string>
+    <string name="home_not_started">Not started</string>
+    <string name="home_in_progress">In progress</string>
+    <string name="home_completed">Completed</string>
+    
+    <!-- Swipe screen -->
+    <string name="swipe_undo">Undo</string>
+    <string name="swipe_keep">Keep</string>
+    <string name="swipe_delete">Delete</string>
+    <string name="swipe_progress">%d / %d</string>
+    
+    <!-- Review screen -->
+    <string name="review_title">Review</string>
+    <string name="review_keep">Keep (%d)</string>
+    <string name="review_delete">Delete (%d)</string>
+    <string name="review_summary">Reviewed: %d | To delete: %d</string>
+    <string name="review_storage_saved">Storage saved: %s</string>
+    <string name="review_finish">Finish</string>
+    <string name="review_confirm_title">Xác nhận xóa</string>
+    <string name="review_confirm_message">Bạn chắc chắn muốn xóa %d ảnh chứ?</string>
+    <string name="review_confirm_yes">Xóa</string>
+    <string name="review_confirm_no">Hủy</string>
+    
+    <!-- Common -->
+    <string name="exit">Exit</string>
+    <string name="back">Back</string>
+    <string name="next">Tiếp</string>
+</resources>
